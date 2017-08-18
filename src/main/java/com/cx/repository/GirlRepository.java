@@ -1,5 +1,6 @@
-package com.cx.demo;
+package com.cx.repository;
 
+import com.cx.domain.Girl;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

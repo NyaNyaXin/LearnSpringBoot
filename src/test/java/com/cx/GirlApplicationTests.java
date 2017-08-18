@@ -1,4 +1,4 @@
-package com.cx.demo;
+package com.cx;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

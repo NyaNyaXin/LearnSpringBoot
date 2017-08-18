@@ -1,5 +1,8 @@
-package com.cx.demo;
+package com.cx.controller;
 
+import com.cx.domain.Girl;
+import com.cx.repository.GirlRepository;
+import com.cx.service.GirlService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
