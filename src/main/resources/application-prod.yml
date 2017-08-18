@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+girl:
+  cupSize: F
+  #配置属性中使用属性
+  content: "cupSize: ${cupSize}"
